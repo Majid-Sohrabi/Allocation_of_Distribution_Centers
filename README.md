@@ -10,3 +10,5 @@ Implementation of the article: [Link for paper](https://www.researchgate.net/pub
   4. [Hybrid GA & SA - GaSa](https://github.com/Majid-Sohrabi/Allocation_of_Distribution_Centers/blob/main/Algorithm/Algorithm_Hybrid_GaSa.m)
   5. [Hybrid KA & SA - KaSa](https://github.com/Majid-Sohrabi/Allocation_of_Distribution_Centers/blob/main/Algorithm/Algorithm_Hybrid_KaSa.m)
   6. [Keshtel Algorithm - KA](https://github.com/Majid-Sohrabi/Allocation_of_Distribution_Centers/blob/main/Algorithm/Algorithm_KA.m)
+  7. [Particle Swarm Optimization - PSO](https://github.com/Majid-Sohrabi/Allocation_of_Distribution_Centers/blob/main/Algorithm/Algorithm_PSO.m)
+  8. [Simulated Annealing - SA](https://github.com/Majid-Sohrabi/Allocation_of_Distribution_Centers/blob/main/Algorithm/Algorithm_SA.m)
